@@ -16,6 +16,7 @@ def BasicGeneration(userPrompt):
     return completion.choices[0].message.content
 
 
+
 st.title('Bitcoin Analyzer With ChatGPT')
 st.subheader(
     'Subscribe to my channel!')
