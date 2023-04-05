@@ -4,6 +4,8 @@ import requests
 import streamlit as st
 
 
+# Run program by [python -m streamlit run app.py]
+
 
 openai.api_key = "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"
 
